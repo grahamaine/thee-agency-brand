@@ -6,6 +6,8 @@
 
 Web portals, dApps and websites designed, built and deployed by **thee AGENCY Consults (UG) Limited**. Tap a thumbnail to open the live project.
 
+📄 **[Download the portfolio (PDF)](https://github.com/grahamaine/thee-agency-brand/raw/main/thee-AGENCY-Portfolio.pdf)** to share with clients.
+
 <table>
 <tr>
 <td width="50%" valign="top">
