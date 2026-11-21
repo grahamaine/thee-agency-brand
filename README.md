@@ -117,6 +117,23 @@ AI health and habit tracker with Gemini-generated insights and coaching.<br>
 </tr>
 </table>
 
+
+## Certificates & recognition
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="certificates/2026-11-encode-x-solana-hackathon-pamoja.png"><img src="certificates/2026-11-encode-x-solana-hackathon-pamoja-thumb.jpg" alt="Encode x Solana Hackathon 2026 participant certificate: Graham Byagaba, project Pamoja" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<b>Encode x Solana Hackathon 2026, Participant</b><br>
+<sub>Encode Club, with the support of the Solana Foundation · 12 Oct – 16 Nov 2026</sub><br><br>
+Awarded to <b>Graham Byagaba</b> for <a href="https://pamoja-solana.vercel.app"><b>Pamoja</b></a>, escrow payments for local service businesses in Uganda, built on Solana.<br><br>
+<a href="certificates/2026-11-encode-x-solana-hackathon-pamoja.png">📜 View certificate</a> · <a href="https://pamoja-solana.vercel.app">🌐 Pamoja live</a> · <a href="https://github.com/grahamaine/Pamoja">💻 Code</a>
+</td>
+</tr>
+</table>
+
 ---
 
 ## Brand kit
